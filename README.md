@@ -1,4 +1,11 @@
-# Tuner additional research
+# Tuner
+A simple standalone app for macOS based on JUCE that detects the frequency of an instrument and shows its note based on autocorrelation.
+
+<img alt="Screenshot of application" src="https://user-images.githubusercontent.com/692826/40535041-3dab748c-6008-11e8-8d93-6c73fa36d9fd.png">
+
+[Download now](https://github.com/logsol/tuner/releases/download/1.0.0/Tuner.app.zip)
+
+# Additional research
 
 ## Different Approaches of Pitch Detection
 - Using FFT 
